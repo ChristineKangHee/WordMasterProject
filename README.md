@@ -15,4 +15,5 @@
 
 ## [0. 나가기] 메뉴
 -0을 선택함으로써 '프로그램 종료! 다음에 만나요~'를 출력하였다.
+
 <img src='https://github.com/ChristineKangHee/WordMasterProject/blob/master/screenshots/%5B0.%20%EB%82%98%EA%B0%80%EA%B8%B0%5D%20%EB%A9%94%EB%89%B4.png?raw=true'>
