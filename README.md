@@ -12,6 +12,11 @@
 
 <img src='https://github.com/ChristineKangHee/WordMasterProject/blob/master/screenshots/%5B1.%20%EB%AA%A8%EB%93%A0%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0%5D%20%EB%A9%94%EB%89%B4%EC%97%90%EC%84%9C%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EC%B6%9C%EB%A0%A5-1,%202.png?raw=true'>
 
+## [2. 수준별 단어보기] 메뉴 출력
+-'원하는 레벨은? (1~3)' 질문에 1을 답한 경우 레벨 1로 설정한 단어들이 출력되는 모습을 확인할 수 있다.
+
+<img src='https://github.com/ChristineKangHee/WordMasterProject/blob/master/screenshots/%5B2.%20%EC%88%98%EC%A4%80%EB%B3%84%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0%5D.png?raw=true'>
+
 
 ## [0. 나가기] 메뉴
 -0을 선택함으로써 '프로그램 종료! 다음에 만나요~'를 출력하였다.
