@@ -43,3 +43,9 @@
 -0을 선택함으로써 '프로그램 종료! 다음에 만나요~'를 출력하였다.
 
 <img src='https://github.com/ChristineKangHee/WordMasterProject/blob/master/screenshots/%5B0.%20%EB%82%98%EA%B0%80%EA%B8%B0%5D%20%EB%A9%94%EB%89%B4.png?raw=true'>
+
+## [1. 모든 단어보기] 프로그램 새로 실행 후
+-원래 있던 33개의 단어에서 transfer 단어를 삭제 했기에 프로그램 새로 실행시 파일에 있는 모든 단어 가져오고 transfer을 제외한 모든 단어 출력됨을 알 수 있다.
+
+<img src='https://github.com/ChristineKangHee/WordMasterProject/blob/master/screenshots/%5B1.%20%EB%AA%A8%EB%93%A0%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0%5D%20%EC%83%88%EB%A1%9C%20%EC%8B%A4%ED%96%89-1.png?raw=true'>
+<img src='https://github.com/ChristineKangHee/WordMasterProject/blob/master/screenshots/%5B1.%20%EB%AA%A8%EB%93%A0%20%EB%8B%A8%EC%96%B4%EB%B3%B4%EA%B8%B0%5D%20%EC%83%88%EB%A1%9C%20%EC%8B%A4%ED%96%89-2.png?raw=true'>
